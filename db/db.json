@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Толик13teryertyerty",
+      "email": "wdfs@dadasd",
+      "children": true,
+      "permission": false,
+      "id": 1
+    },
+    {
+      "name": "Толик12",
+      "email": "wdfs@dadasd",
+      "children": false,
+      "permission": true,
+      "id": 2
+    },
+    {
+      "name": "Толик",
+      "email": "dd@dd.ru",
+      "children": false,
+      "permission": false,
+      "id": 3
+    },
+    {
+      "name": "wqrqwerwerqwerq",
+      "email": "sfdgsdfgsdf@uiyuiy",
+      "children": true,
+      "permission": false,
+      "id": 4
+    },
+    {
+      "name": "klhjklhjkl",
+      "email": "fgsgjghk@ghdfh",
+      "children": true,
+      "permission": false,
+      "id": 5
+    },
+    {
+      "name": "Толик13",
+      "email": "wdfs@dadasd",
+      "children": true,
+      "permission": false,
+      "id": 7
+    }
+  ]
+}
